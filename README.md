@@ -10,6 +10,7 @@
 ## 🌱 Outros Conhecimentos:
 <div style = "display: inline_block">
 <img align="center" alt="GitHub"src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<img align="center" alt="Jira"src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
 <img align="center" alt="Word"src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
 </div>
 
