@@ -1,7 +1,5 @@
 ## Oi, Meu nome é Murillo 👋
-- ### Meu objetivo é desenvolver habilidades e competências para agregar conhecimentos, visando a melhoria contínua da minha vida profissional.
 
-## 🔧 Linguagens:
 <div style = "display: inline_block">
   <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
