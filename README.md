@@ -1,4 +1,4 @@
-## Oi, Meu nome é Murillo 👋
+## Oi, meu nome é Murillo 👋
 
 <div style = "display: inline_block">
   <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
